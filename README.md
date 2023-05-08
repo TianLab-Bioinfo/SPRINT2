@@ -21,13 +21,13 @@ pip install sprint2
 ```
 **or install via Git clone:** 
 ```
-git clone https://github.com/xieyunxiao/SPRINT2/
+git clone https://github.com/TianLab-Bioinfo/SPRINT2/
 ```
 
 ## 3. Download annotation files.
-**Repeat annotation files can download at:** https://github.com/xieyunxiao/SPRINT2/repeat_data/
+**Repeat annotation files can download at:** https://github.com/TianLab-Bioinfo/SPRINT2/repeat_data/
 
-**Double-stranded RNA annotation files can download at:** https://github.com/xieyunxiao/SPRINT2/dsRNA_data/
+**Double-stranded RNA annotation files can download at:** https://github.com/TianLab-Bioinfo/SPRINT2/dsRNA_data/
 
 
 ## 4. Requirements.
